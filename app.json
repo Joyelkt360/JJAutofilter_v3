@@ -1,5 +1,5 @@
 {
-    "name": "LuciferMoringstar_Robot",
+    "name": "JAutofilter_v3",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "logo": "https://telegra.ph/file/467eea43b4d6cf2243e72.jpg",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Joyelkt360/LuciferMoringstar_Robot",
-    "repository": "https://github.com/Joyelkt360/LuciferMoringstar_Robot",
+    "website": "https://github.com/Joyelkt360/JJAutofilter_v3",
+    "repository": "https://github.com/Joyelkt360/JJAutofilter_v3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
