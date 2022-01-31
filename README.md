@@ -1,7 +1,7 @@
 ### [J&J TECHIES BOT](https://t.me/JJTECHIESGROUP)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar_Robot?style=social)
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar_Robot?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/joyelkt360?style=social)
+<img src="https://img.shields.io/github/forks/joyelkt360/JJAutofilter_v3?style=social"></img>
 ## How To Deploy Video
 <a href="https://youtu.be/-xDQbsF-wek"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 ## Subscribe YouTube Channel
