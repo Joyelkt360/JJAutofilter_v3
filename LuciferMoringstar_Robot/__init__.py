@@ -29,19 +29,19 @@ HELP = """
 
 <b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT></b>
+@JJTeachies></b>
 """
 
 ABOUT = """
 ➥ Name : Auto Filter With IMDB
     
-➥ Credits : Subin
+➥ Credits : joyel
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Editing : [J&J](t.me/JJTeachies)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://github.com/Joyelkt360/JJAutofilter_v3)
 """
