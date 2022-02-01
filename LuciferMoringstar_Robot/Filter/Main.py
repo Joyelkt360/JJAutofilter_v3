@@ -285,7 +285,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 return
         elif query.data == "help":
             buttons = [[
-                InlineKeyboardButton('Update Channel', url='t.me/JJTEACHIESGROUP'),
+                InlineKeyboardButton('Update Channel', url='t.me/JJTECHIESGROUP'),
                 InlineKeyboardButton('Source Code', url="https://github.com/Joyelkt360/JJAutofilter_v3")
                 ],[
                 InlineKeyboardButton('💫Deploy Video💫', url=f'{TUTORIAL}')
@@ -295,7 +295,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', url='t.me/JJTEACHIESCHANNEL1'),
+                    InlineKeyboardButton('Update Channel', url='t.me/JJTECHIESCHANNEL1'),
                     InlineKeyboardButton('Source Code', url="https://github.com/Joyelkt360/JJAutofilter_v3")
                 ]
                 ]
