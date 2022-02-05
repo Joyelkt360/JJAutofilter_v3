@@ -287,8 +287,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [[
                 InlineKeyboardButton('Update Channel', url='t.me/JJTECHIESGROUP'),
                 InlineKeyboardButton('Source Code', url="https://github.com/Joyelkt360/JJAutofilter_v3")
-                ],[
-                InlineKeyboardButton('💫Deploy Video💫', url=f'{TUTORIAL}')
                 ]]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
