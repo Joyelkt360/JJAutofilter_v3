@@ -27,9 +27,9 @@ HELP = """
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
 
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+<b>[➡️JOIN OUR CHANNEL](https://t.me/JJTECHIESCHANNEL1)
 
-@JJTeachies></b>
+@JJTeachies</b>
 """
 
 ABOUT = """
