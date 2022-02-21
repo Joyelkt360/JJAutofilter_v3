@@ -15,7 +15,7 @@ HELP = """
 
 ➥ /start : check if am alive or dead
 ➥ /about : About Me
-➥ /stats user Status
+➥ /stats all users Status
 
 <b><u>Bot Owner Only</u></b>
 
@@ -26,6 +26,7 @@ HELP = """
 ➥ /total How Many Files Added In Database
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
+➥ /index save files from replay message
 
 <b>[➡️JOIN OUR CHANNEL](https://t.me/JJTECHIESCHANNEL1)
 
