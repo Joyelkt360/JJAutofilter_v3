@@ -294,7 +294,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', url='t.me/JJTECHIESCHANNEL1'),
+                    InlineKeyboardButton('Update Channel', url='t.me/JJTECHIESCHANNEL3'),
                     InlineKeyboardButton('Source Code', url="https://github.com/Joyelkt360/JJAutofilter_v3")
                 ]
                 ]
