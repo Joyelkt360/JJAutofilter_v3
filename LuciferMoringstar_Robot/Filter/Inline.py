@@ -90,7 +90,7 @@ async def answer(bot, query):
 def get_reply_markup(query):
     buttons = [[
         InlineKeyboardButton('Support Group', url='https://t.me/JJTECHIESGROUP'),
-        InlineKeyboardButton('Support Channel', url='https://t.me/JJTECHIESCHANNEL1')
+        InlineKeyboardButton('Support Channel', url='https://t.me/JJTECHIESCHANNEL3')
         ],[
         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat=query)
         ]]
